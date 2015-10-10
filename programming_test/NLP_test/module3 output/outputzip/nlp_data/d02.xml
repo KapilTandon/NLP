@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sentences>
+    <FileName>nlp_data/d02</FileName>
+    <Sentence>
+        <sentenceId>1</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Broydenâ</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>€</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>“</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Fletcherâ</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>€</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>“</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Goldfarbâ</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>€</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>“</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Shanno</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>(</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BFGS</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>)</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>algorithm</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>an</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>iterative</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>method</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>for</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>solving</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>unconstrained</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>nonlinear</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>optimization</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>problems</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>2</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BFGS</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>method</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>approximates</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Newton's</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>method</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>class</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>hill-climbing</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>optimization</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>techniques</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>that</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>seeks</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>stationary</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>point</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>(</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>preferably</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>twice</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>continuously</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>differentiable</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>)</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>function</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>3</sentenceId>
+        <Word>
+            <Word-Value>For</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>such</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>problems</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>necessary</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>condition</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>for</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>optimality</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>that</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>gradient</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>be</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>zero</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>4</sentenceId>
+        <Word>
+            <Word-Value>Newton's</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>method</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BFGS</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>methods</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>not</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>guaranteed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>converge</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>unless</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>function</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>has</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>quadratic</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Taylor</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>expansion</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>near</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>an</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>optimum</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>5</sentenceId>
+        <Word>
+            <Word-Value>These</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>methods</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>use</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>both</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>first</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>second</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>derivatives</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>function</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>6</sentenceId>
+        <Word>
+            <Word-Value>However</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BFGS</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>has</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>proven</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>have</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>good</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>performance</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>even</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>for</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>non-smooth</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>optimizations</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+</Sentences>

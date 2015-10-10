@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sentences>
+    <FileName>nlp_data/d04</FileName>
+    <Sentence>
+        <sentenceId>1</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Antikythera</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>mechanism</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>an</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>ancient</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>analog</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>computer</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>designed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>predict</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>astronomical</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>positions</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>eclipses</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>for</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>calendrical</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>astrological</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>purposes</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>well</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>cycles</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Olympic</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Games</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>2</sentenceId>
+        <Word>
+            <Word-Value>Found</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>housed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>340</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Ã</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>—</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>180</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Ã</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>—</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>90</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>mm</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>wooden</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>box</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>device</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>complex</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>clockwork</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>mechanism</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>composed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>at</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>least</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>30</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>meshing</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>bronze</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>gears</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>3</sentenceId>
+        <Word>
+            <Word-Value>Its</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>remains</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>were</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>found</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>82</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>separate</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>fragments</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>which</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>only</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>seven</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>contain</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>any</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>gears</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>or</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>significant</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>inscriptions</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>4</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>largest</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>gear</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>approximately</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>140</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>mm</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>diameter</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>5</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>artifact</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>was</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>recovered</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>1901</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>from</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Antikythera</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>shipwreck</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>off</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Greek</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>island</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Antikythera</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>6</sentenceId>
+        <Word>
+            <Word-Value>Believed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>have</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>been</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>designed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>constructed</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>by</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Greek</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>scientists</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>instrument</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>has</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>been</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>dated</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>either</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>between</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>150</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>100</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BC</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>or</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>according</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>more</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>recent</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>view</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>at</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>205</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>BC</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+</Sentences>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sentences>
+    <FileName>nlp_data/d06</FileName>
+    <Sentence>
+        <sentenceId>1</sentenceId>
+        <Word>
+            <Word-Value>A</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>differentiable</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>manifold</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>type</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>manifold</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>that</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>locally</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>similar</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>enough</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>linear</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>space</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>allow</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>one</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>do</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>calculus</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>2</sentenceId>
+        <Word>
+            <Word-Value>Any</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>manifold</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>can</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>be</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>described</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>by</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>collection</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>charts</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>also</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>known</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>an</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>atlas</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>3</sentenceId>
+        <Word>
+            <Word-Value>One</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>may</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>then</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>apply</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>ideas</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>from</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>calculus</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>while</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>working</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>within</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>individual</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>charts</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>since</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>each</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>chart</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>lies</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>within</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>linear</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>space</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>which</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>usual</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>rules</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>calculus</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>apply</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>4</sentenceId>
+        <Word>
+            <Word-Value>If</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>charts</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>suitably</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>compatible</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>(</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>namely</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>transition</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>from</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>one</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>chart</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>another</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>is</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>differentiable</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>)</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>then</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>computations</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>done</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>one</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>chart</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>valid</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>any</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>other</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>differentiable</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>chart</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+</Sentences>

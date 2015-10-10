@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sentences>
+    <FileName>nlp_data/d05</FileName>
+    <Sentence>
+        <sentenceId>1</sentenceId>
+        <Word>
+            <Word-Value>Horseshoe</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>crabs</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>marine</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>arthropods</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>that</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>live</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>primarily</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>around</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>shallow</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>ocean</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>waters</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>on</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>soft</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>sandy</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>or</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>muddy</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>bottoms</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>2</sentenceId>
+        <Word>
+            <Word-Value>They</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>occasionally</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>come</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>onto</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>shore</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>mate</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>3</sentenceId>
+        <Word>
+            <Word-Value>They</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>commonly</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>used</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>bait</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>fertilizer</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>4</sentenceId>
+        <Word>
+            <Word-Value>In</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>recent</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>years</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>decline</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>population</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>has</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>occurred</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>as</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>consequence</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>coastal</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>habitat</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>destruction</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Japan</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>overharvesting</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>along</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>east</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>coast</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>North</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>America</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> 
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>
+</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>5</sentenceId>
+        <Word>
+            <Word-Value>Because</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>of</Word-Value>
+            <Word-Type>NER</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>their</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>origin</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>450</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>million</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>years</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>ago</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>(</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Mya</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>)</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>horseshoe</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>crabs</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>considered</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>living</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>fossils</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>6</sentenceId>
+        <Word>
+            <Word-Value>Horseshoe</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>crabs</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>resemble</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>crustaceans</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>but</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>belong</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>a</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>separate</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>subphylum</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>and</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>closely</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>related</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>to</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>arachnids</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+    <Sentence>
+        <sentenceId>7</sentenceId>
+        <Word>
+            <Word-Value>The</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>earliest</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>horseshoe</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>crab</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>fossils</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>are</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>found</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>in</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>strata</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>from</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>the</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>late</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Ordovician</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>period</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>,</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>roughly</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>450</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value> </Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>Mya</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+        <Word>
+            <Word-Value>.</Word-Value>
+            <Word-Type>Other</Word-Type>
+        </Word>
+    </Sentence>
+</Sentences>
